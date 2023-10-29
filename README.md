@@ -4,5 +4,5 @@ Specifically, the files within this repository contain what is needed for Unit 4
 
 * Fundamentals of Xarray.
 * Area-weighted and time-weighted temporal averaging < 1D climate datasets.
-* Creating visually appealing spatial maps of climate data and basic animations.
+* Creating visually appealing spatial maps of climate data.
 
